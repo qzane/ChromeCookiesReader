@@ -11,7 +11,7 @@ read and decrypt Chrome Cookies on Windows
 # pss
 Chrome还是比较良心的，FF直接明文... IE没用数据库用文件存的，暂时看不懂
 
-# pass
+# pss
 GRE求好运气
 
 
